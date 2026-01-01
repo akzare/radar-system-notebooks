@@ -20,7 +20,7 @@ Watch the guided walkthrough for this repo and reproduce the examples using the 
 
 [![Watch on YouTube](assets/video_thumbnail.png)](https://youtu.be/StjCmLtC9pQ)
 
-**Video:** https://youtu.be/StjCmLtC9pQ  
+**Video:** https://youtu.be/StjCmLtC9pQ  https://youtu.be/z3x2vxzRtR4
 
 ---
 
