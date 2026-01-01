@@ -14,6 +14,14 @@ This repo is intended for engineers, researchers, and students who want hands‑
 - Demonstrate preprocessing and feature engineering techniques commonly used in radar systems  
 - Offer simple detection and visualization demos that are easy to adapt to real data
 
+## Video Walkthrough
+
+Watch the guided walkthrough for this repo and reproduce the examples using the notebook below.
+
+[![Watch on YouTube](assets/video_thumbnail.png)](https://youtu.be/StjCmLtC9pQ)
+
+**Video:** https://youtu.be/StjCmLtC9pQ  
+
 ---
 
 ## Contributing and License
