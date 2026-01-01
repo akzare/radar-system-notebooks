@@ -16,6 +16,19 @@ This repo is intended for engineers, researchers, and students who want hands‑
 
 ---
 
+## Contributing and License
+Contributing
+
+Open an issue for bugs, feature requests, or dataset suggestions.
+
+Fork the repo, create a branch feature/your-change, and open a pull request with a clear description and example outputs.
+
+Keep notebooks tidy: clear top‑cell instructions, minimal long outputs, and a short summary cell describing what changed.
+
+License
+
+This project is released under the MIT License. Add a LICENSE file to the repo root if not already present.
+
 ## Quick Start
 
 **Clone the repository**
