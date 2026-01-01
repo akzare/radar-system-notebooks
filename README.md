@@ -27,7 +27,7 @@ Keep notebooks tidy: clear top‑cell instructions, minimal long outputs, and a 
 
 License
 
-This project is released under the MIT License. Add a LICENSE file to the repo root if not already present.
+This project is released under the MIT License.
 
 ## Quick Start
 
